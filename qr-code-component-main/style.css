@@ -1,0 +1,31 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    padding-top: 30px;
+    font-family: "Outfit", sans-serif;
+}
+.first{
+    background-color: hsl(0, 0%, 100%);
+    margin: auto;
+    margin-top: 50px;
+    width: 290px;
+    border-radius: 17px;
+    padding: 15px;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+.second img{
+    width: 100%;
+    border-radius: 11px;
+}
+.third{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+h4{
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
